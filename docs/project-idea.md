@@ -1,0 +1,1 @@
+My course project idea is a traffic simulator. A user will create a road map within the software, and the software will then simulate drivers on the user-created roadmap. Once the simulation period is over, the software will give a score to the user-created road map. 
